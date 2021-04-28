@@ -1,0 +1,14 @@
+imgs_orig
+imgs_orig/*
+
+images
+images/*
+
+dataset
+dataset/*
+
+BrooksvilleEntryGate
+BrooksvilleEntryGate/*
+
+BrooksvilleExitGate
+BrooksvilleExitGate/*

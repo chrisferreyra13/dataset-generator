@@ -3,5 +3,5 @@
 Generate N new images with augmentation techniques.
 
 ## Tools
-**Python version:** 3.8
+**Python version:** 3.8 
 **Packages:** Imaug, Scikit.
